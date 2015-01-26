@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.djessy.terminal.properties">
+    <module_version install_time="1422149049447" last="true" origin="installer" specification_version="1.0">
+        <file crc="2060554427" name="config/Modules/com-djessy-terminal-properties.xml"/>
+        <file crc="403263707" name="modules/com-djessy-terminal-properties.jar"/>
+    </module_version>
+</module>

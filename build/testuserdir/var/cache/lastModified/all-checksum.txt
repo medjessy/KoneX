@@ -1,0 +1,10 @@
+/Applications/NetBeans/NetBeans 8.0.1.app/Contents/Resources/NetBeans/platform=1421638872000
+cluster./Users/dmenard/Documents/personal/KoneX/build/cluster=1422149049000
+cluster./Applications/NetBeans/NetBeans 8.0.1.app/Contents/Resources/NetBeans/ide=1421638874000
+cluster./Applications/NetBeans/NetBeans 8.0.1.app/Contents/Resources/NetBeans/platform=1421638872000
+user=1422149049000
+crc=7
+locale=en_US
+branding=konex
+java.version=1.8.0_20
+java.vm.version=25.20-b23

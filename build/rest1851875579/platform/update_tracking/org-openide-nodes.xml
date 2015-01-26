@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.nodes">
+    <module_version install_time="1408979193096" last="true" origin="installer" specification_version="7.39.1">
+        <file crc="11361373" name="config/ModuleAutoDeps/org-openide-nodes.xml"/>
+        <file crc="3092369940" name="config/Modules/org-openide-nodes.xml"/>
+        <file crc="2943797140" name="modules/locale/org-openide-nodes_ja.jar"/>
+        <file crc="661047322" name="modules/locale/org-openide-nodes_pt_BR.jar"/>
+        <file crc="904005430" name="modules/locale/org-openide-nodes_ru.jar"/>
+        <file crc="986682843" name="modules/locale/org-openide-nodes_zh_CN.jar"/>
+        <file crc="635795051" name="modules/org-openide-nodes.jar"/>
+    </module_version>
+</module>

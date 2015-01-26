@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+Bundle-Localization: com/djessy/terminal/properties/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: com.djessy.terminal.properties
+Bundle-Version: 1.0
+

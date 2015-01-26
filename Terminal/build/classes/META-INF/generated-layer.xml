@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="com_djessy_terminal">
+                <file name="Terminal" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.djessy.terminal.TerminalTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.djessy.terminal//Terminal//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="com">
+                <folder name="djessy">
+                    <folder name="terminal">
+                        <file name="TerminalTopComponent">
+                            <!--com.djessy.terminal.TerminalTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//com_djessy_terminal/Terminal.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="com_djessy_terminal">
+                <file name="Terminal.instance">
+                    <!--com.djessy.terminal.TerminalTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.djessy.terminal.TerminalTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.djessy.terminal.TerminalTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="com-djessy-terminal-TerminalTopComponent.shadow">
+                <!--com.djessy.terminal.TerminalTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-djessy-terminal-TerminalTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="TerminalTopComponent.settings">
+                <!--com.djessy.terminal.TerminalTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.djessy.terminal.TerminalTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="TerminalTopComponent.wstcref">
+                    <!--com.djessy.terminal.TerminalTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="TerminalTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="com-djessy-terminal-TerminalTopComponent.instance">
+                <!--com.djessy.terminal.TerminalTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.djessy.terminal.TerminalTopComponent"/>
+                <attr name="preferredID" stringvalue="TerminalTopComponent"/>
+                <attr
+                    bundlevalue="com.djessy.terminal.Bundle#CTL_TerminalAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.javafx">
+    <module_version install_time="1408978786383" last="true" origin="installer" specification_version="2.4.1">
+        <file crc="3843417750" name="config/Modules/org-netbeans-libs-javafx.xml"/>
+        <file crc="3639872139" name="modules/locale/org-netbeans-libs-javafx_ja.jar"/>
+        <file crc="145171981" name="modules/locale/org-netbeans-libs-javafx_pt_BR.jar"/>
+        <file crc="2510883721" name="modules/locale/org-netbeans-libs-javafx_ru.jar"/>
+        <file crc="607414264" name="modules/locale/org-netbeans-libs-javafx_zh_CN.jar"/>
+        <file crc="1192126815" name="modules/org-netbeans-libs-javafx.jar"/>
+    </module_version>
+</module>
